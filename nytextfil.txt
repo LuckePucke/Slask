@@ -1,0 +1,14 @@
+Man kan självklart lägga till nya filer.
+
+Skapa en fil och lägg den i Slask
+
+git add nyfil.ext
+
+och som vanligt för att logga vad man ändrat:
+
+git commit -m "Lade till nyfil.ext"
+
+eventuellt kan man jobba vidare och göra fler commits innan man väljer att pusha sina lokala ändringar
+
+git push
+
